@@ -125,6 +125,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Academic Calendar', link: '/Academic Calendar'}
 ```
 
 `name` is the text that will be shown and link, well, it's a link.

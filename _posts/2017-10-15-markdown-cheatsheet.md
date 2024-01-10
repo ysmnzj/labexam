@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Website
-featured-img: انتخابی
+featured-img: entekhabi
 categories: Guides
 ---
 

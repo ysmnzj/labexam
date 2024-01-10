@@ -25,6 +25,7 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
   - {name: 'Academic Calendar', link: '/Academic Calendar'}
+  - {name: 'Courses', link: '/Courses'}
 
 tagline: >
   Modern Jekyll theme focused on speed performance &amp; SEO best practices

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Website
-featured-img: emile-perron-190221
+featured-img: انتخابی
 categories: Guides
 ---
 
